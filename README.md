@@ -1,0 +1,2 @@
+# CoreSpa
+netcore-spa
